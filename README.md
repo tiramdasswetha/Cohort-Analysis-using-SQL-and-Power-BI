@@ -1,4 +1,5 @@
 # Retail Cohort Analysis Project
+[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tiramdas-swetha2231/)
 
 ## Project Purpose
 
