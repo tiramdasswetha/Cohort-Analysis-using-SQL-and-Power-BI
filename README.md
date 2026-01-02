@@ -4,6 +4,9 @@
 
 This project aims to conduct a cohort analysis using MySQL to segment data into cohorts based on shared characteristics, primarily focusing on customer and revenue metrics over time. By analyzing various aspects like invoice counts, customer counts, and revenue by cohort, this project provides valuable insights into customer retention, purchasing behavior, and revenue trends. Power BI visualizations are used to display these analyses for clearer interpretation and strategic decision-making.
 
+Click on the **Image** Below:
+[![Dash Image](https://github.com/nafiul-araf/Cohort-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard%20Image.JPG)](https://app.powerbi.com/view?r=eyJrIjoiMGU5ZjU1YzQtYTIxYi00MTUyLThlMjMtOTlhMzJhNzI1NGNkIiwidCI6IjhjMTI4NjJkLWZjYWYtNGEwNi05M2FjLTk0Yjk3YjVjZWQ1NSIsImMiOjEwfQ%3D%3D)
+
 ## Steps for Analysis
 
 ### 1. Loading the Data to MySQL
